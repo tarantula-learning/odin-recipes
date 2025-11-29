@@ -1,2 +1,2 @@
 # odin-recipes
-For this project, I will be building a recipe website. I am nervous, but excited. Html isn't as hard as I thought.
+For this project, I will be building a recipe website. I am nervous, but excited. Html isn't as hard as I thought...
